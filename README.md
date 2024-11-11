@@ -5,7 +5,7 @@
 - Permiten realizar tareas de manera concurrente sin crear múltiples hilos de ejecución.
 - Utilizadas principalmente para mejorar la eficiencia y realizar tareas asíncronas.
   
-- ## 2. Características Principales
+## 2. Características Principales
 - **Estado persistente**: Conservan su estado entre pausas.
 - **Suspensión y reanudación**: Pueden suspenderse y continuar desde el punto donde se quedaron.
 - **Concurrencia**: Permiten la concurrencia sin bloquear el hilo principal.
